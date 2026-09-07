@@ -37,3 +37,24 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* 프로필 이미지 크기 고정 및 레이아웃 유지 */
+.profile {
+  width: 250px !important; /* 이미지 영역의 너비를 200px로 고정 */
+  min-width: 250px !important; /* 화면이 작아져도 더 이상 줄어들지 않음 */
+  float: left; /* 왼쪽 정렬 유지 */
+  margin-right: 20px; /* 글자와의 간격 확보 */
+}
+
+.profile img {
+  width: 100% !important; /* 부모인 .profile 너비에 맞춤 */
+  height: auto !important;
+}
+
+/* 모바일 화면(너비 576px 이하)에서도 사진 크기를 유지하고 싶을 때 */
+@media (max-width: 576px) {
+  .profile {
+    float: none !important; /* 모바일에서는 글자 위로 배치 (선택 사항) */
+    margin: 0 auto 20px auto !important; /* 중앙 정렬 */
+  }
+}
