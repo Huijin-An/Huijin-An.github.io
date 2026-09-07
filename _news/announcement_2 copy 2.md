@@ -9,10 +9,10 @@ related_posts: false
 ---
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img src="{{ '/assets/img/scix3.jpeg' | relative_url }}" alt="poster 1" class="img-fluid rounded z-depth-1">
+        <img src="{{ '/assets/img/scix3.Jpeg' | relative_url }}" alt="poster 1" class="img-fluid rounded z-depth-1">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        <img src="{{ '/assets/img/SCix2.jpeg' | relative_url }}" alt="poster 2" class="img-fluid rounded z-depth-1">
+        <img src="{{ '/assets/img/SCix2.Jpeg' | relative_url }}" alt="poster 2" class="img-fluid rounded z-depth-1">
     </div>
 
 </div>
