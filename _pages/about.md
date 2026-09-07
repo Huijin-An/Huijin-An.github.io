@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: Huijin_prof_pic.Jpeg
+  image: Huijin_prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
    
