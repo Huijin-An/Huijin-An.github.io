@@ -440,18 +440,33 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-am-going-to-vanderbilt-university-to-start-my-phd-degree",
+          title: 'I am going to Vanderbilt University to start my PhD degree!',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-i-joined-dr-weiss-s-group-and-co-advising-under-dr-andrea-locke-sparkles-smile",
+          title: 'I joined Dr. Weiss’s group and co-advising under Dr. Andrea Locke! :sparkles: :smile:...',
+          description: "",
+          section: "News",},{id: "news-poster-presentation-in-22nd-annual-nanoscience-amp-nanotechnology-forum",
+          title: 'Poster presentation in 22nd Annual Nanoscience &amp;amp; Nanotechnology forum',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2%20copy/";
+            },},{id: "news-oral-presentation-in-scix-2023-conference",
+          title: 'Oral presentation in SCiX 2023 conference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2%20copy%202/";
+            },},{id: "news-poster-presentation-in-23rd-annual-nanoscience-amp-nanotechnology-forum",
+          title: 'Poster presentation in 23rd Annual Nanoscience &amp;amp; Nanotechnology forum',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2%20copy%203/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
