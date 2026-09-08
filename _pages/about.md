@@ -9,7 +9,6 @@ profile:
   image: Huijin_prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-   
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,15 +24,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Huijin (Ginny), and I'm a PhD candidate in Interdisciplinary material science at Vanderbilt University. I'm interested in designing quantitative biosensor & rapid diagnostic test. 
+My name is Huijin (Ginny), and I'm a PhD candidate in Interdisciplinary material science at Vanderbilt University. I'm interested in designing quantitative biosensor & rapid diagnostic test.
 
-
-I am currently doing my research in VU Photonics - Weiss Group under the supervision of [Professor Sharon. M. Weiss](https://my.vanderbilt.edu/vuphotonics/people). Before my graduate studies, I finished my undergraduate in Nano-bio Engineering at Incheon National University, South Korea. 
-
+I am currently doing my research in VU Photonics - Weiss Group under the supervision of [Professor Sharon. M. Weiss](https://my.vanderbilt.edu/vuphotonics/people). Before my graduate studies, I finished my undergraduate in Nano-bio Engineering at Incheon National University, South Korea.
 
 Email: <a href='mailto:{huijin.an@vanderbilt.edu}'>huijin.an@vanderbilt.edu</a>  
 Office: Featheringill Hall 323
 
-Education   
-Ph.D. candidate, Interdisciplinary material science, Vanderbilt University, Nashville, TN, USA   
+Education  
+Ph.D. candidate, Interdisciplinary material science, Vanderbilt University, Nashville, TN, USA  
 B.E. Incheon National University, 2021, Incheon, South Korea

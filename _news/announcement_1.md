@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am going to Vanderbilt University to start my PhD degree! 
+I am going to Vanderbilt University to start my PhD degree!
