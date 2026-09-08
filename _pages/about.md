@@ -30,7 +30,7 @@ My name is Huijin (Ginny), and I'm a PhD candidate in Interdisciplinary material
 I am currently doing my research in VU Photonics - Weiss Group under the supervision of [Professor Sharon. M. Weiss](https://my.vanderbilt.edu/vuphotonics/people). Before my graduate studies, I finished my undergraduate in Nano-bio Engineering at Incheon National University, South Korea.
 
 Email: <a href='mailto:{huijin.an@vanderbilt.edu}'>huijin.an@vanderbilt.edu</a>  
-Office: Featheringill Hall 323
+Office: Featheringill Hall 323, Vanderbilt University, Nashville, TN, USA
 
 Education  
 Ph.D. candidate, Interdisciplinary material science, Vanderbilt University, Nashville, TN, USA  
