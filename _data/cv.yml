@@ -5,7 +5,6 @@ cv:
   location: Nashville, TN
   image: ""
   summary: Ph.D. candidate specializing in diagnostic platform development, with expertise in optical biosensors, microfluidics, immunoassays, and micro/nanofabrication. Developed and optimized quantitative point-of-care sensing platforms by integrating sensor fabrication, surface biofunctionalization, assay development, and optical readout. Combines hands-on diagnostic R&D with NSF I-Corps experience in customer discovery and market validation to support translation of emerging technologies toward commercially relevant healthcare applications.
-  
 
   social_networks:
     - network: X
@@ -16,30 +15,30 @@ cv:
       username: example
 
   address:
-    street: 
+    street:
     city: Nashville
     region: Tennessee
-    postalCode: 
+    postalCode:
     countryCode: US
 
   sections:
     Education:
       - institution: Vanderbilt University, Nashville, TN, USA
-        location: 
-        url: 
-        area: 
+        location:
+        url:
+        area:
         studyType: Ph.D. in Interdisciplinary Material Sciences
         start_date: 2022
         end_date: present
         score: ""
-        courses: 
+        courses:
         highlights:
           - Advised by Dr. Sharon Weiss
           - Study in diagnostic platform development.
 
       - institution: Incheon National University, Incheon, South Korea
-        location: 
-        area: 
+        location:
+        area:
         studyType: B.E. in Nano-Bio Engineering
         start_date: 2017
         end_date: 2021
@@ -97,12 +96,12 @@ cv:
     #       - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: NSF I-Corps Teams Award Recipient 
+      - title: NSF I-Corps Teams Award Recipient
         authors:
           - "National Science Foundation"
         date: 2026-09-03
         awarder: National Science Foundation
-        url: 
+        url:
         summary: Selected to evaluate the commercial potential of an optical biosensor through customer discovery and market validation.
 
       - title: Parkhutik Prize Recipient
@@ -111,13 +110,13 @@ cv:
         date: 2026
         awarder: 14th PSST International Conference
         summary: Recognized for outstanding research on fluid-flow control mechanisms in paper-based porous silicon biosensors.
-      
-      - title: NSF Regional I-Corps Teams Pitch Award 
+
+      - title: NSF Regional I-Corps Teams Pitch Award
         authors:
           - "Mid-south Hub"
         date: 2025
         awarder: Mid-south Hub
-        url: 
+        url:
         summary: Awarded first place and a microgrant for an optical biosensor commercialization strategy.
 
     Publications:
@@ -127,7 +126,7 @@ cv:
         publisher: Nano Letters
         releaseDate: 2026
         url: https://doi.org/10.1021/acs.nanolett.6c00860
-        summary: This mini-review highlights the convergence of electrochemical and photonic biosensing as a systems-level strategy for wearable diagnostics, where complementary electrical and optical signals probe the same dynamic nano–bio interface. 
+        summary: This mini-review highlights the convergence of electrochemical and photonic biosensing as a systems-level strategy for wearable diagnostics, where complementary electrical and optical signals probe the same dynamic nano–bio interface.
 
       - title: Porous silicon on paper| A platform for quantitative rapid diagnostic tests
         authors:
@@ -135,8 +134,8 @@ cv:
         publisher: ACS Applied Materials & Interfaces
         releaseDate: 2025
         url: https://doi.org/10.1021/acsami.4c18940
-        summary: The first integration of open-ended porous silicon membranes with paper substrates enables pump-free flow-through biosensing, improving molecular transport and producing concentration-dependent optical responses for protein detection. 
-      
+        summary: The first integration of open-ended porous silicon membranes with paper substrates enables pump-free flow-through biosensing, improving molecular transport and producing concentration-dependent optical responses for protein detection.
+
       - title: Porous silicon-on-paper sensors| factors affecting biosensing performance
         authors:
           - H An, PE Laibinis, AK Locke, SM Weiss
@@ -144,7 +143,7 @@ cv:
         releaseDate: 2025
         url: https://doi.org/10.1117/12.3048667
         summary: A paper-based porous silicon biosensor improves molecular transport and enables enhanced quantitative protein detection compared with conventional PSi films on silicon. By tuning wicking and absorbent paper layers, the platform can control incubation and testing time, supporting low-cost, sensitive rapid diagnostics.
-      
+
       - title: Vacuum-filtration fabrication for diverse conductive transparent cellulose electronic devices
         authors:
           - S Noh, H An, Y Song
@@ -155,22 +154,22 @@ cv:
 
     Skills:
       - name: Fabrication
-        level: 
+        level:
         icon: fa-solid fa-hashtag
         keywords: "Electrochemical silicon etching, soft lithography, wax printing, SLA/extrusion 3D printing, paper microfluidics"
       - name: Assay Development
-        level: 
+        level:
         icon: fa-solid fa-hashtag
         keywords: "Immunoassays, PCR, surface biofunctionalization, paper-based diagnostics, 3D cell culture"
       - name: Characterization
-        level: 
+        level:
         icon: fa-solid fa-hashtag
         keywords: "SEM, TEM, Raman/SERS, UV-Vis, ¹H NMR, NanoSight"
       - name: Software & Data Analysis
-        level: 
+        level:
         icon: fa-solid fa-hashtag
         keywords: "Python, MATLAB, Origin, ImageJ/Fiji, AutoCAD, KLayout, Blender"
-    
+
     Languages:
       - name: Korean
         summary: "Native speaker"
@@ -179,8 +178,8 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: 
-        icon: 
+      - name:
+        icon:
         keywords: "Point-of-Care Diagnostics, Biosensor Development, Optical Sensing, Microfluidics, Assay Development, Surface Biofunctionalization, Micro/Nanofabrication, Paper-Based Diagnostics, Translational Research, Technology Commercialization"
 
     # Certificates:

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Oral presentation in 13th PSST Conference.
+title: Oral presentation in 13th PSST Conference.
 date: 2024-04-28 16:11:00-0400
 inline: false
 related_posts: false
