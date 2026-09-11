@@ -18,7 +18,6 @@ The platform combines **porous silicon optical biosensors, patterned paper micro
 
 ---
 
-
 ## Research Motivation
 
 The first-generation porous silicon-on-paper platform demonstrated that passive flow through an open-ended porous silicon membrane can improve molecular transport and optical sensing performance.
@@ -161,7 +160,6 @@ This research was presented at the **14th International Conference on Porous Sem
 The presentation highlighted the role of fluid transport and microfluidic architecture in improving the performance and integration of paper-based porous silicon biosensors.
 
 The work received the **Parkhutik Prize**, recognizing the research presented at the conference.
-
 
 ---
 

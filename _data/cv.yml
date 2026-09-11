@@ -1,6 +1,6 @@
 cv:
   name: Huijin An
-  label: PhD candidate in Interdisciplinary Material Sciences
+  label: PhD candidate in Interdisciplinary Materials Sciences
   email: huijin.an@vanderbilt.edu
   location: Nashville, TN
   image: ""
@@ -27,7 +27,7 @@ cv:
         location:
         url:
         area:
-        studyType: Ph.D. in Interdisciplinary Material Sciences
+        studyType: Ph.D. in Interdisciplinary Materials Sciences
         start_date: 2022
         end_date: present
         score: ""

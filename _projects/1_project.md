@@ -12,9 +12,6 @@ related_publications: true
 
 Conventional porous silicon (PSi) optical biosensors offer label-free and quantitative biomolecular detection, but molecular transport into closed-ended nanoscale pores can limit sensitivity and response time.
 
-
-
-
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
 
@@ -51,11 +48,10 @@ This transport limitation can result in:
 
 The central engineering challenge was therefore to improve molecular transport through the porous sensing layer while preserving the optical sensing functionality and mechanical integrity of the porous silicon structure.
 
-
-
 ---
 
 ## My Role
+
 My work on this project included:
 
 - Fabrication of porous silicon free-standing membranes by electrochemical etching
@@ -105,7 +101,6 @@ Porous silicon sensing membrane and its integration with a paper-based microflui
 
 ## Technical Approach
 
-
 ### Three-Layer Porous Silicon Membrane
 
 The sensing platform uses an open-ended **three-layer porous silicon free-standing membrane** fabricated by electrochemical etching.
@@ -133,6 +128,7 @@ The sensor surface was subsequently functionalized using:
 This biotin–streptavidin system was used to evaluate quantitative biomolecular detection and compare the performance of the paper-supported sensor with conventional PSi sensors remaining on silicon substrates.
 
 ---
+
 ### Passive Flow-Through Transport
 
 A key feature of the platform is the use of paper beneath the open-ended PSi membrane.
@@ -153,13 +149,11 @@ Changes in the **effective optical thickness (EOT)** of the porous silicon sensi
 
 This enabled label-free, concentration-dependent detection of streptavidin.
 
-
 ---
 
 ## Key Results
 
 Optimization of the porous silicon membrane and paper-based fluidic architecture produced substantial improvements in sensor performance.
-
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-9 mt-3 mt-md-0">
@@ -175,7 +169,6 @@ Optimization of the porous silicon membrane and paper-based fluidic architecture
 <div class="caption">
 Optimization of sensor architecture and fluid transport resulted in improved analytical sensitivity and faster sensing response.
 </div>
-
 
 ### Nearly 4× Higher Detection Sensitivity
 
@@ -199,14 +192,13 @@ The paper substrate simultaneously:
 
 This eliminated the need for an external pump or conventional microfluidic channel network.
 
-
 ---
 
 ## Research Output
 
 **First-author publication**
 
-*Porous Silicon on Paper: A Platform for Quantitative Rapid Diagnostic Tests*
+_Porous Silicon on Paper: A Platform for Quantitative Rapid Diagnostic Tests_
 
 **ACS Applied Materials & Interfaces**  
 2025, 17 (4), 6024–6030
@@ -225,8 +217,8 @@ This work demonstrates how **sensor architecture and passive fluid transport can
 
 By integrating an open-ended PSi membrane with a simple paper substrate, the platform provides quantitative, label-free sensing while avoiding the external pumps and microfluidic channel systems previously used for flow-through porous silicon sensing.
 
-The approach establishes a foundation for the development of low-cost quantitative rapid diagnostic platforms based on porous silicon optical sensing.
----
+## The approach establishes a foundation for the development of low-cost quantitative rapid diagnostic platforms based on porous silicon optical sensing.
+
 ## Technical Skills
 
 `Optical Biosensing` ·
