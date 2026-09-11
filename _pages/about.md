@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle:
 
@@ -25,12 +25,12 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Huijin (Ginny), and I'm a PhD candidate in Interdisciplinary material science at Vanderbilt University. I'm interested in designing quantitative biosensor & rapid diagnostic test.
+I am a Ph.D. candidate in Interdisciplinary Materials Science at Vanderbilt University developing biosensing and diagnostic technologies at the intersection of optical sensing, immunoassays, microfluidics, and materials engineering.
 
-I am currently doing my research in VU Photonics - Weiss Group under the supervision of [Professor Sharon. M. Weiss](https://my.vanderbilt.edu/vuphotonics/people). Before my graduate studies, I finished my undergraduate in Nano-bio Engineering at Incheon National University, South Korea.
+My research spans porous silicon sensor design, micro/nanofabrication, surface biofunctionalization, assay development, fluid transport, and quantitative performance optimization, with a focus on developing reproducible and translatable diagnostic technologies. I am currently doing my research in VU Photonics - Weiss Group under the supervision of [Professor Sharon. M. Weiss](https://my.vanderbilt.edu/vuphotonics/people).
 
-Email: <a href='mailto:{huijin.an@vanderbilt.edu}'>huijin.an@vanderbilt.edu</a>  
-Office: Featheringill Hall 323, Vanderbilt University, Nashville, TN, USA
+Research Areas
+Optical Biosensors · Immunoassays · Microfluidics · Micro/Nanofabrication · Materials & Biointerfaces
 
 Education  
 Ph.D. candidate, Interdisciplinary material science, Vanderbilt University, Nashville, TN, USA  
