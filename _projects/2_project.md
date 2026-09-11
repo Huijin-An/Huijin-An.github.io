@@ -1,81 +1,198 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: Flow-Controlled Paper Microfluidic Porous Silicon Biosensor
+description: Engineering fluid transport and sensor integration for multiplexed quantitative optical biosensing
+# img: assets/img/project2_cover.png
 importance: 2
 category: work
-giscus_comments: true
+related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Overview
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Building on the porous silicon-on-paper sensing platform established in my previous work, this project focuses on engineering **controlled fluid transport and sensor integration within a paper-based microfluidic architecture**.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The goal is to move beyond a single sensing interface toward an integrated platform in which fluid delivery, biomolecular interaction, and optical sensing can be systematically controlled across multiple sensing regions.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+The platform combines **porous silicon optical biosensors, patterned paper microfluidics, surface biofunctionalization, and label-free optical detection** in a compact device architecture designed for quantitative biosensing.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## Research Motivation
 
-{% raw %}
+The first-generation porous silicon-on-paper platform demonstrated that passive flow through an open-ended porous silicon membrane can improve molecular transport and optical sensing performance.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+However, translating this concept into a more integrated diagnostic platform requires greater control over how liquid is:
 
-{% endraw %}
+- Distributed across the device
+- Delivered to individual sensing regions
+- Retained during biomolecular incubation
+- Transported through porous sensing interfaces
+- Managed across multiple sensing locations
+
+This project investigates how **microfluidic architecture and transport conditions influence porous silicon biosensor performance** and how those relationships can be used to guide device design.
+
+---
+
+## My Role
+
+I led experimental development and optimization of the integrated microfluidic biosensing platform, including:
+
+- Design of paper-based microfluidic architectures
+- Fabrication and integration of porous silicon sensing regions
+- Development of patterned fluidic pathways
+- Optimization of liquid distribution across sensing regions
+- Surface biofunctionalization and assay development
+- Investigation of biomolecular transport and incubation conditions
+- Optical sensing and effective optical thickness analysis
+- Quantitative comparison of sensing-region performance
+- Identification and troubleshooting of fluidic and assay variability
+- Development of reproducible device fabrication and experimental workflows
+- Analysis of relationships between fluid transport and biosensor response
+
+The central focus of my work was understanding how **fluidic design influences molecular transport, sensing consistency, and overall device performance**.
+
+---
+
+## Technical Approach
+
+### Engineered Paper Microfluidics
+
+Rather than relying solely on passive absorption through an unpatterned paper substrate, this project uses a **defined paper microfluidic architecture** to control sample transport and distribution.
+
+Patterning is used to create hydrophilic flow pathways and hydrophobic boundaries that direct liquid toward designated sensing regions.
+
+This architecture enables controlled fluid delivery while retaining the low-cost and pump-free advantages of paper-based microfluidics.
+
+---
+
+### Surface Biofunctionalization and Assay Integration
+
+Porous silicon sensing regions were functionalized with biomolecular recognition chemistries and integrated with the paper microfluidic workflow.
+
+Experimental optimization focused on interactions among:
+
+- Surface functionalization
+- Biomolecular immobilization
+- Sample transport
+- Incubation
+- Washing
+- Optical measurement
+
+Because fluid transport and surface chemistry directly influence one another, these parameters were evaluated as part of a coupled device-and-assay system.
+
+---
+
+### Fluid Transport Optimization
+
+A major component of this work involved understanding how device geometry and fluidic configuration influence liquid movement through the sensing platform.
+
+Design variables were evaluated experimentally to determine how they affect:
+
+- Flow distribution
+- Transport time
+- Liquid retention
+- Sensor exposure
+- Spatial consistency
+- Optical sensing response
+
+This approach allowed fluidic design decisions to be directly linked to quantitative sensor performance.
+
+---
+
+## Experimental Optimization and Troubleshooting
+
+The integrated nature of the device introduced several potential sources of performance variability.
+
+I systematically investigated issues related to:
+
+- Paper patterning
+- Sensor positioning
+- Fluidic resistance
+- Uneven sample distribution
+- Surface functionalization
+- Biomolecular transport
+- Assay incubation
+- Optical measurements
+
+Experimental workflows were iteratively refined to improve consistency across independent devices and sensing locations.
+
+This work emphasized **system-level troubleshooting**, where fluidics, materials, surface chemistry, and sensing performance were evaluated together rather than as independent components.
+
+---
+
+## Key Outcomes
+
+### Controlled Fluid Distribution
+
+The patterned microfluidic architecture enabled controlled delivery of liquid across defined sensing locations within the device.
+
+### Spatially Resolved Optical Sensing
+
+Integration of multiple PSi sensing regions enabled independent optical measurements at different locations within a single microfluidic platform.
+
+### Improved Understanding of Transport–Sensor Relationships
+
+The project established relationships between fluid transport, incubation conditions, device architecture, and porous silicon optical response.
+
+These relationships provide design criteria for future integrated diagnostic platforms.
+
+---
+
+## Research Output
+
+### Manuscript
+
+**Manuscript under review**
+
+This work is currently under peer review. The study focuses on engineering fluid transport and sensor integration within a paper-based porous silicon biosensing platform.
+
+Additional publication details will be added following publication.
+
+---
+
+## Conference Presentation & Award
+
+### Parkhutik Prize — 14th PSST International Conference, 2026
+
+This research was presented at the **14th International Conference on Porous Semiconductors – Science and Technology (PSST)**.
+
+The presentation highlighted the role of fluid transport and microfluidic architecture in improving the performance and integration of paper-based porous silicon biosensors.
+
+The work received the **Parkhutik Prize**, recognizing the research presented at the conference.
+
+
+---
+
+## Project Impact
+
+This project extends porous silicon-on-paper sensing from a single flow-through sensor toward a more integrated **microfluidic diagnostic platform**.
+
+By engineering fluid transport, spatial sensor placement, and assay conditions together, the system provides a framework for:
+
+- Controlled sample delivery
+- Multiple sensing regions
+- Internal controls
+- Spatially multiplexed sensing
+- Integration of different molecular recognition chemistries
+
+The project demonstrates how **microfluidics, surface chemistry, materials engineering, and optical biosensing can be co-designed to improve the performance and scalability of quantitative diagnostic devices**.
+
+---
+
+## Technical Skills
+
+`Paper Microfluidics` ·
+`Porous Silicon` ·
+`Optical Biosensing` ·
+`Microfluidic Design` ·
+`Surface Biofunctionalization` ·
+`Immunoassay Development` ·
+`Sensor Integration` ·
+`Multiplexed Biosensing` ·
+`Experimental Design` ·
+`Process Optimization` ·
+`Technical Troubleshooting` ·
+`Optical Characterization` ·
+`Data Analysis`
