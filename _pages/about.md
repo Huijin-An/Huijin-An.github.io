@@ -25,12 +25,12 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Interdisciplinary Materials Science at Vanderbilt University developing biosensing and diagnostic technologies at the intersection of optical sensing, immunoassays, microfluidics, and materials engineering.
+Huijin (Ginny) is a Ph.D. candidate in Interdisciplinary Materials Science (IMS) at Vanderbilt University and an affiliated student at VINSE (Vanderbilt Institute of Nanoscale Science and Engineering) working at the intersection of materials engineering, micro/nanofabrication, biosensing, and microfluidics.
 
-My research spans porous silicon sensor design, micro/nanofabrication, surface biofunctionalization, assay development, fluid transport, and quantitative performance optimization, with a focus on developing reproducible and translatable diagnostic technologies. I am currently doing my research in VU Photonics - Weiss Group under the supervision of [Professor Sharon. M. Weiss](https://my.vanderbilt.edu/vuphotonics/people).
+Her research focuses on translating material and device concepts into reproducible experimental platforms through process development, fabrication, fluidic integration, and quantitative performance characterization. she has experience developing porous silicon sensors, polymeric and paper-based microfluidic systems, surface-functionalized biosensing platforms, and functional material devices, with an emphasis on systematic experimental design, process optimization, root-cause analysis, reproducibility, and prototype development to advance laboratory technologies toward practical real-world applications. She is currently conducting her research in the VU Photonics – Weiss Group under the supervision of [Professor Sharon M. Weiss](https://my.vanderbilt.edu/sharonweiss/).
 
-Research Areas
-Optical Biosensors · Immunoassays · Microfluidics · Micro/Nanofabrication · Materials & Biointerfaces
+Research Areas:
+Biosensors · Assay Development · Materials Engineering · Micro/Nanofabrication · Microfluidics · Process Development · Prototype Development
 
 Education  
 Ph.D. candidate, Interdisciplinary material science, Vanderbilt University, Nashville, TN, USA  
