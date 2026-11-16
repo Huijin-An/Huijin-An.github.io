@@ -2,15 +2,31 @@
 layout: page
 title: Flow-Controlled Paper Microfluidic Porous Silicon Biosensor
 description: Engineering fluid transport and sensor integration for multiplexed quantitative optical biosensing
-# img: assets/img/project2_cover.png
+img: assets/img/project2figure.png
 importance: 2
 category: work
-related_publications: false
+related_publications: true
 ---
 
 ## Overview
 
 Building on the porous silicon-on-paper sensing platform established in my previous work, this project focuses on engineering **controlled fluid transport and sensor integration within a paper-based microfluidic architecture**.
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+
+    {% include figure.liquid
+       loading="eager"
+       path="assets/img/project2figure.png"
+       title="Porous silicon-on-paper microfluidics biosensor architecture"
+       class="img-fluid rounded z-depth-1" %}
+
+  </div>
+</div>
+
+<div class="caption">
+Conceptual architecture of the porous silicon-on-paper microfluidics quantitative biosensing platform.
+</div>
 
 The goal is to move beyond a single sensing interface toward an integrated platform in which fluid delivery, biomolecular interaction, and optical sensing can be systematically controlled across multiple sensing regions.
 

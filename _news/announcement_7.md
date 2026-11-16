@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Selected for the NSF I-Corps Teams Program :sparkles
+title: Selected for the NSF I-Corps Teams Program
 date: 2026-09-01 12:00:00 -0500
 inline: false
 related_posts: false
