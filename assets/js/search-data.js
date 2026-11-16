@@ -86,12 +86,15 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_9.html";
-            },},{id: "news-selected-for-the-nsf-i-corps-teams-program-sparkles",
-          title: 'Selected for the NSF I-Corps Teams Program :sparkles',
+            },},{id: "news-selected-for-the-nsf-i-corps-teams-program",
+          title: 'Selected for the NSF I-Corps Teams Program',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_7.html";
-            },},{id: "projects-porous-silicon-on-paper-quantitative-biosensor",
+            },},{id: "news-published-my-second-paper-in-acs-applied-materials-amp-amp-interfaces",
+          title: 'Published my second paper in ACS Applied Materials &amp;amp;amp; Interfaces!',
+          description: "",
+          section: "News",},{id: "projects-porous-silicon-on-paper-quantitative-biosensor",
           title: 'Porous Silicon-on-Paper Quantitative Biosensor',
           description: "A pump-free flow-through porous silicon optical biosensor for quantitative rapid diagnostic testing",
           section: "Projects",handler: () => {
@@ -101,6 +104,11 @@ ninja.data = [{
           description: "Engineering fluid transport and sensor integration for multiplexed quantitative optical biosensing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
+            },},{id: "projects-nsf-i-corp-program-fall-2026-entrepreneur",
+          title: 'NSF I-Corp Program Fall 2026 Entrepreneur',
+          description: "Engineering fluid transport and sensor integration for multiplexed quantitative optical biosensing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project.html";
             },},{
         id: 'social-cv',
         title: 'CV',
